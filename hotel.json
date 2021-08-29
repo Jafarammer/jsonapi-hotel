@@ -1,0 +1,92 @@
+[
+    {
+        "id" : 1,
+        "nama" : "Novotel Tangerang",
+        "deskripsi" : "Pesan Novotel Tangerang Hotel yang memiliki layanan terbaik dengan lokasi strategis di Tangerang. Harga terbaru 2021 mulai Rp 546826",
+        "harga" : 546826,
+        "foto" : "https://media.tabloidbintang.com/files/thumb/03814bdf5dbbb26e90b2cfe5bc96be95.jpg/745",
+        "lat" : -6.19423,
+        "lng" : 106.63446
+    },
+    {
+        "id" : 2,
+        "nama" : "Grand Soll Marina Hotel",
+        "deskripsi" : "Grand Soll Marina Hotel not only an ideal venue for business travelers and corporate retreats, but also a relaxing and starting point for leisure travelers",
+        "harga" : 479000,
+        "foto" : "https://origin.pegipegi.com/jalan/images/pict1L/Y3/Y959033/Y959033046.jpg",
+        "lat" : -6.19278,
+        "lng" : 106.58376
+    },
+    {
+        "id" : 3,
+        "nama" : "JHL Solitaire Gading Serpong",
+        "deskripsi" : "Hotel mewah dengan eksterior yang mencolok ini terletak di seberang sebuah universitas, serta berjarak 3 km dari Gading Raya Padang Golf & Club dan 30 km dari Bandara Internasional Soekarno-Hatta.",
+        "harga" : 1479000,
+        "foto" : "https://d2xf5gjipzd8cd.cloudfront.net/available/481243673/481243673_WxH.jpg",
+        "lat" : -6.24889,
+        "lng" : 106.61425
+    },
+    {
+        "id" : 4,
+        "nama" : "Golden Tulip Essential Tangerang",
+        "deskripsi" : "Hotel mewah ini berada di sepasang menara yang menghadap ke jalan layang, serta dapat diakses dengan berjalan kaki 15 menit dari stasiun kereta Tanah Tinggi. Hotel ini juga berjarak 4 km dari Danau Cipondoh dan Museum Benteng Heritage.",
+        "harga" : 310000,
+        "foto" : "https://ak-d.tripcdn.com/images/200u0f0000007ewph5906_R_550_412_R5_Q70_D.jpg",
+        "lat" : -6.18301,
+        "lng" : 106.64305
+    },
+    {
+        "id" : 5,
+        "nama" : "Allium Tangerang",
+        "deskripsi" : "Terletak di sebuah bangunan yang sangat modern dan mencolok, hotel mewah ini berjarak 10 menit berjalan kaki dari stasiun kereta Batu Ceper dan 14 km dari bandara Bandar Udara Internasional Soekarno-Hatta",
+        "harga" : 389000,
+        "foto" : "https://www.ihgma.com/data/uploads/2018/06/alium-tangerang.jpg",
+        "lat" : -6.16672,
+        "lng" : 106.65659
+    },
+    {
+        "id" : 6,
+        "nama" : "Le Dian Hotel & Cottages",
+        "deskripsi" : "Hotel kelas atas dengan fasad dan tiang marmer ini berada di pusat komersial, serta berjarak 3 km dari pusat kota Serang dan Museum Negeri Banten, dan 12 km dari Masjid Agung Banten yang dibangun pada abad ke-16.",
+        "harga" : 560000,
+        "foto" : "https://4.bp.blogspot.com/-89R55vWl8Ro/VR7vDsvxcII/AAAAAAAAABU/prFlh3i1cPc/s1600/Le-Dian-Hotel-02.jpg",
+        "lat" : -6.11832,
+        "lng" : 106.18254
+    },
+    {
+        "id" : 7,
+        "nama" : "Green Garden Resort",
+        "deskripsi" : "Hotel mewah di properti rindang yang menghadap ke Laut Jawa ini berjarak beberapa menit berjalan kaki dari Pantai Green Garden, 3 km dari Mercusuar Anyer, dan 15 km dari stasiun kereta Krenceng.",
+        "harga" : 900000,
+        "foto" : "https://media-cdn.tripadvisor.com/media/photo-s/0d/c8/a1/3a/sambil-santap-cemilan.jpg",
+        "lat" : -6.05485,
+        "lng" : 105.90202
+    },
+    {
+        "id" : 8,
+        "nama" : "Aston Cilegon Boutique Hotel",
+        "deskripsi" : "Hotel minimalis yang terletak di Jalan Nasional Rute 3 ini berjarak 2 km dari Cilegon Green Waterpark dan 3 km dari Masjid Agung Cilegon.",
+        "harga" : 640000,
+        "foto" : "https://1.bp.blogspot.com/-itSZqVbV8OE/XyaIWby1wdI/AAAAAAAAD5g/5lXKU2DGl3IxoLegXZhEMBVLcj3189ElgCLcBGAsYHQ/d/aston-hotel-cilegon.png",
+        "lat" : -6.00348,
+        "lng" : 106.06768
+    },
+    {
+        "id" : 9,
+        "nama" : "Aston Anyer Beach Hotel",
+        "deskripsi" : "Terletak di Pantai Anyer di pesisir Laut Jawa, hotel pedesaan bergaya modern ini berjarak 10 km dari Mercusuar Cikoneng.",
+        "harga" : 1130000,
+        "foto" : "https://ak-d.tripcdn.com/images/220c0u000000jcz5u4E5E_Z_550_412_R5_Q70_D.jpg",
+        "lat" : -6.13989,
+        "lng" : 105.88429
+    },
+    {
+        "id" : 10,
+        "nama" : "Forbis Hotel",
+        "deskripsi" : "Hotel santai ini berjarak 7 km dari Cilegon Green Waterpark dan 18 km dari Masjid Agung Banten.",
+        "harga" : 438000,
+        "foto" : "https://i.ytimg.com/vi/9iCKc53cp2Y/hqdefault.jpg",
+        "lat" : -6.04000,
+        "lng" : 106.03283
+    }
+]
